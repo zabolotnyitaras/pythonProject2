@@ -6,5 +6,5 @@ string_sample3 = " exstra whitespace string "
 german_sample = "der Flus"
 
 print(len(string_sample))
-print(string_sample[:10])
+print(string_sample[10:])
 #[START:END:STEP]
